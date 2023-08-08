@@ -1,27 +1,31 @@
 <h1 align="center">Hi 👋, I'm Yogeshkumar Hadiya</h1>
-<h3 align="center">A passionate software developer from Ahmedabad,India</h3>
+<h3 align="center">Skilled Technology Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshhadiya33&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshhadiya33" /> </p>
+## 💫 About Me
+👋 Hello! I'm Yogesh Kumar Hadiya, a passionate Full Stack Developer with expertise in .NET, .NET Core, SQL Server, and Angular. I enjoy crafting robust and user-friendly applications that tackle real-world challenges.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshhadiya33" alt="yogeshhadiya33" /></a> </p>
+🌐 On my coding journey, I specialize in creating efficient backend systems using .NET technologies and dynamic front-end experiences with Angular. My skills also extend to database management and optimization using SQL Server.
 
-<p align="left"> <a href="https://twitter.com/yogeshhadiya33" target="blank"><img src="https://img.shields.io/twitter/follow/yogeshhadiya33?logo=twitter&style=for-the-badge" alt="yogeshhadiya33" /></a> </p>
+📝 When I'm not coding, you'll find me sharing insights and knowledge through my blogs. I contribute articles to platforms like C# Corner, Medium, and my personal blog at [YogeshHadiya.In](https://www.yogeshhadiya.in/). I believe in the power of community and love learning from fellow developers.
 
-- 📝 I regularly write articles on [https://www.yogeshhadiya.in/](https://www.yogeshhadiya.in/)
+🚀 If you're interested in software development, coding best practices, or the latest tech trends, feel free to connect and explore my repositories. Let's learn and grow together!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
-<a href="https://instagram.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
-<a href="https://medium.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
-<a href="https://www.c-sharpcorner.com/members/YogeshHadiya33" target="blank"><img align="center" src="https://f4n3x6c5.stackpathcdn.com/UploadFile/MinorCatImages/105439AM.png" alt="yogeshhadiya33" height="30" width="40" /></a>
-</p>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/YogeshHadiya33) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YogeshHadiya33) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@YogeshHadiya33) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YogeshHadiya33) 
+[![C# Corner](https://img.shields.io/badge/C%23%20Corner-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.c-sharpcorner.com/members/YogeshHadiya33) 
+[![Personal Blog](https://img.shields.io/badge/Personal%20Blog-Visit%20Now-blue)](https://www.yogeshhadiya.in/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshhadiya33&show_icons=true&locale=en&layout=compact" alt="yogeshhadiya33" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshhadiya33&show_icons=true&locale=en" alt="yogeshhadiya33" /></p>
+  
