@@ -16,6 +16,7 @@
 <a href="https://instagram.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
 <a href="https://medium.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogeshhadiya33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogeshhadiya33" height="30" width="40" /></a>
+<a href="https://www.c-sharpcorner.com/members/YogeshHadiya33" target="blank"><img align="center" src="https://f4n3x6c5.stackpathcdn.com/UploadFile/MinorCatImages/105439AM.png" alt="yogeshhadiya33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
